@@ -1,3 +1,6 @@
 # Nelson is my personal virtual assistant. 
+  Nelson est mon assistant virtuel personnel. 
 He can be... quite strange. Don't feel offended. Ask him anything you want. 
+  Il peut être assez... étrange. Ne vous sentez pas offensés et demandez lui tout ce que vous voulez.
 For information, He likes movies, motos and tv shows ... 
+  Et pour information, il aime parler de cinéma, motos et séries... 
